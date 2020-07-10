@@ -1,4 +1,4 @@
-# HildaHt.github.io
+# Minimalism
 
 [![Build Status](https://travis-ci.org/showzeng/Minimalism.svg?branch=master)](https://travis-ci.org/showzeng/Minimalism)
 [![Jekyll Version](https://img.shields.io/badge/Jekyll-3.8-blue.svg)](https://jekyllrb.com/)
