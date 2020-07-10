@@ -8,9 +8,11 @@ excerpt: 使用github、hexo和git创建个人博客。
 
 ## 搭建Node.js环境
 
-```
-因为Hexo是基于Node.js编写的。
-```
+<pre class="highlight">
+  <code>
+  因为Hexo是基于Node.js编写的。
+  </code>
+</pre>
 
 下载安装包后保持默认设置，一路next点击即可安装完成。
 
